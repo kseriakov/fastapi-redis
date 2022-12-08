@@ -1,0 +1,157 @@
+2022-12-06 14:54:00,404 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 14:54:00,405 inventory.redis_consumer INFO     tuple indices must be integers or slices, not str
+2022-12-06 14:54:27,439 inventory.redis_consumer INFO     list index out of range
+2022-12-06 14:56:25,593 inventory.redis_consumer INFO     list index out of range
+2022-12-06 14:56:57,635 inventory.redis_consumer INFO     list index out of range
+2022-12-06 14:57:30,678 inventory.redis_consumer INFO     list index out of range
+2022-12-06 14:57:53,708 inventory.redis_consumer INFO     list index out of range
+2022-12-06 14:59:16,594 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 14:59:16,594 inventory.redis_consumer INFO     []
+2022-12-06 14:59:17,596 inventory.redis_consumer INFO     []
+2022-12-06 14:59:18,598 inventory.redis_consumer INFO     []
+2022-12-06 14:59:19,600 inventory.redis_consumer INFO     []
+2022-12-06 14:59:20,601 inventory.redis_consumer INFO     []
+2022-12-06 14:59:21,603 inventory.redis_consumer INFO     []
+2022-12-06 14:59:22,605 inventory.redis_consumer INFO     []
+2022-12-06 14:59:23,606 inventory.redis_consumer INFO     []
+2022-12-06 14:59:24,608 inventory.redis_consumer INFO     []
+2022-12-06 14:59:25,609 inventory.redis_consumer INFO     []
+2022-12-06 14:59:26,611 inventory.redis_consumer INFO     []
+2022-12-06 14:59:27,613 inventory.redis_consumer INFO     [['StreamKey.ORDER_CREATED', [('1670338766770-0', {'order_id': '01GKKZ5N0ZX3MG3YKN8KYJMR23', 'product_id': '01GKEG3B2VQ15GC1NJ725X86DA', 'price': '253.0', 'quantity': '2.0', 'status': 'OrderStatus.COMPLETED'})]]]
+2022-12-06 14:59:27,613 inventory.redis_consumer INFO     string indices must be integers
+2022-12-06 14:59:28,615 inventory.redis_consumer INFO     []
+2022-12-06 14:59:29,616 inventory.redis_consumer INFO     []
+2022-12-06 14:59:30,618 inventory.redis_consumer INFO     []
+2022-12-06 14:59:31,620 inventory.redis_consumer INFO     []
+2022-12-06 14:59:32,621 inventory.redis_consumer INFO     []
+2022-12-06 14:59:33,623 inventory.redis_consumer INFO     []
+2022-12-06 14:59:34,624 inventory.redis_consumer INFO     []
+2022-12-06 14:59:35,626 inventory.redis_consumer INFO     []
+2022-12-06 14:59:36,628 inventory.redis_consumer INFO     []
+2022-12-06 14:59:37,629 inventory.redis_consumer INFO     []
+2022-12-06 14:59:38,631 inventory.redis_consumer INFO     []
+2022-12-06 14:59:39,632 inventory.redis_consumer INFO     []
+2022-12-06 14:59:40,634 inventory.redis_consumer INFO     []
+2022-12-06 14:59:41,636 inventory.redis_consumer INFO     []
+2022-12-06 14:59:42,637 inventory.redis_consumer INFO     []
+2022-12-06 14:59:43,639 inventory.redis_consumer INFO     []
+2022-12-06 14:59:44,640 inventory.redis_consumer INFO     []
+2022-12-06 14:59:45,642 inventory.redis_consumer INFO     []
+2022-12-06 14:59:46,644 inventory.redis_consumer INFO     []
+2022-12-06 14:59:47,645 inventory.redis_consumer INFO     []
+2022-12-06 14:59:48,647 inventory.redis_consumer INFO     []
+2022-12-06 14:59:49,648 inventory.redis_consumer INFO     []
+2022-12-06 14:59:50,650 inventory.redis_consumer INFO     []
+2022-12-06 14:59:51,651 inventory.redis_consumer INFO     []
+2022-12-06 14:59:52,653 inventory.redis_consumer INFO     []
+2022-12-06 14:59:53,655 inventory.redis_consumer INFO     []
+2022-12-06 14:59:54,656 inventory.redis_consumer INFO     []
+2022-12-06 14:59:55,658 inventory.redis_consumer INFO     []
+2022-12-06 14:59:56,659 inventory.redis_consumer INFO     []
+2022-12-06 14:59:57,661 inventory.redis_consumer INFO     []
+2022-12-06 14:59:58,662 inventory.redis_consumer INFO     []
+2022-12-06 14:59:59,664 inventory.redis_consumer INFO     []
+2022-12-06 15:00:00,665 inventory.redis_consumer INFO     []
+2022-12-06 15:00:01,667 inventory.redis_consumer INFO     []
+2022-12-06 15:00:02,668 inventory.redis_consumer INFO     []
+2022-12-06 15:00:03,670 inventory.redis_consumer INFO     []
+2022-12-06 15:00:04,671 inventory.redis_consumer INFO     []
+2022-12-06 15:00:05,673 inventory.redis_consumer INFO     []
+2022-12-06 15:00:06,675 inventory.redis_consumer INFO     []
+2022-12-06 15:00:07,676 inventory.redis_consumer INFO     []
+2022-12-06 15:00:08,678 inventory.redis_consumer INFO     []
+2022-12-06 15:00:09,680 inventory.redis_consumer INFO     []
+2022-12-06 15:00:10,681 inventory.redis_consumer INFO     []
+2022-12-06 15:00:11,683 inventory.redis_consumer INFO     []
+2022-12-06 15:00:12,684 inventory.redis_consumer INFO     []
+2022-12-06 15:00:13,685 inventory.redis_consumer INFO     []
+2022-12-06 15:00:14,687 inventory.redis_consumer INFO     []
+2022-12-06 15:00:15,688 inventory.redis_consumer INFO     []
+2022-12-06 15:00:16,690 inventory.redis_consumer INFO     []
+2022-12-06 15:00:17,692 inventory.redis_consumer INFO     []
+2022-12-06 15:00:18,694 inventory.redis_consumer INFO     []
+2022-12-06 15:00:19,695 inventory.redis_consumer INFO     []
+2022-12-06 15:00:20,697 inventory.redis_consumer INFO     []
+2022-12-06 15:00:21,698 inventory.redis_consumer INFO     []
+2022-12-06 15:00:22,700 inventory.redis_consumer INFO     []
+2022-12-06 15:00:23,701 inventory.redis_consumer INFO     []
+2022-12-06 15:00:24,703 inventory.redis_consumer INFO     []
+2022-12-06 15:00:25,704 inventory.redis_consumer INFO     []
+2022-12-06 15:00:26,706 inventory.redis_consumer INFO     []
+2022-12-06 15:00:27,708 inventory.redis_consumer INFO     []
+2022-12-06 15:00:28,709 inventory.redis_consumer INFO     []
+2022-12-06 15:00:29,711 inventory.redis_consumer INFO     []
+2022-12-06 15:00:38,281 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:00:45,291 inventory.redis_consumer INFO     ['StreamKey.ORDER_CREATED', [('1670338844897-0', {'order_id': '01GKKZ81AE6Q4YQ8RGVJG87JSN', 'product_id': '01GKEG3B2VQ15GC1NJ725X86DA', 'price': '253.0', 'quantity': '2.0', 'status': 'OrderStatus.COMPLETED'})]]
+2022-12-06 15:00:45,292 inventory.redis_consumer INFO     list index out of range
+2022-12-06 15:01:57,635 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:02:05,646 inventory.redis_consumer INFO     'Product' object is not subscriptable
+2022-12-06 15:02:56,283 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:03:06,297 inventory.redis_consumer INFO     unsupported operand type(s) for -=: 'float' and 'str'
+2022-12-06 15:03:43,689 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:04:24,746 inventory.redis_consumer INFO     
+2022-12-06 15:07:19,966 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:08:34,065 inventory.redis_consumer INFO     
+2022-12-06 15:11:05,078 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:11:19,097 inventory.redis_consumer INFO     
+2022-12-06 15:12:11,676 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:12:34,708 inventory.redis_consumer INFO     
+2022-12-06 15:16:45,581 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:17:05,609 inventory.redis_consumer INFO     Product with id 01GKM05NVDAVAWXMSP2M0Q9XJQ not found, order 01GKM05Y78ZRB026WCBXKS34T9 refunded
+2022-12-06 15:21:29,415 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:21:43,434 inventory.redis_consumer INFO     Product with id 01GKM0E850FGXJCE2R1P4FZBA1 not found, order 01GKM0EE70KMRWTJAZMVYDTD3Z refunded
+2022-12-06 15:21:43,434 inventory.redis_consumer INFO     Invalid input of type: 'dict'. Convert to a bytes, string, int or float first.
+2022-12-06 15:22:48,593 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-06 15:23:08,620 inventory.redis_consumer INFO     Product with id 01GKM0GS36ADWWRQNJVG18E1DJ not found, order 01GKM0H0JRFEHK3GJTS98J0BRF refunded
+2022-12-07 12:26:17,772 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 12:44:05,255 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 12:46:43,463 inventory.redis_consumer INFO     Product with id 01GKP9YTV0H079T94W1T05G9AN not found, order 01GKP9ZB46VASTGGYG6VCY8YSB refunded
+2022-12-07 12:55:17,402 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 12:55:39,432 inventory.redis_consumer INFO     product: 01GKEG3B2VQ15GC1NJ725X86DA
+2022-12-07 12:56:15,480 inventory.redis_consumer INFO     product: 01GKEG3B2VQ15GC1NJ725X86DA
+2022-12-07 13:16:06,802 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 13:16:06,803 inventory.redis_consumer INFO     product: 01GKEG3B2VQ15GC1NJ725X86DA
+2022-12-07 13:16:20,822 inventory.redis_consumer INFO     product: 01GKEG3B2VQ15GC1NJ725X86DA
+2022-12-07 13:17:06,882 inventory.redis_consumer INFO     product: 01GKEG3B2VQ15GC1NJ725X86DA
+2022-12-07 13:25:24,847 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 13:57:05,037 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 13:57:05,037 inventory.redis_consumer INFO     'order_id'
+2022-12-07 13:58:36,164 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 13:58:36,164 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:01:39,053 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:01:48,066 inventory.redis_consumer INFO     In stack not availible 37.0 product/s!!!!!!!!!!
+2022-12-07 14:01:48,066 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:03:42,033 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:03:48,041 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:03:48,042 inventory.redis_consumer INFO     'order_id'!!!
+2022-12-07 14:05:11,911 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:05:14,916 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:05:14,916 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:10:58,576 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:11:02,582 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:11:02,582 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:15:03,108 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:17:32,909 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:17:50,933 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:17:50,933 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:21:43,001 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:22:46,069 inventory.redis_consumer INFO     Redis group for invetory already created
+2022-12-07 14:22:51,076 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:22:51,077 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:24:11,634 inventory.redis_consumer INFO     BUSYGROUP Consumer Group name already exists
+2022-12-07 14:24:31,660 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:24:31,660 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:25:28,488 inventory.redis_consumer INFO     BUSYGROUP Consumer Group name already exists
+2022-12-07 14:25:33,496 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:25:33,496 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:29:36,961 inventory.redis_consumer INFO     BUSYGROUP Consumer Group name already exists
+2022-12-07 14:29:41,968 inventory.redis_consumer INFO     In stack not availible 37.0 product/s
+2022-12-07 14:29:41,969 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:34:09,342 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
+2022-12-07 14:34:09,343 inventory.redis_consumer INFO     'order_id'
+2022-12-07 14:38:34,039 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
+2022-12-07 14:39:58,638 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
+2022-12-07 14:41:01,852 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
+2022-12-07 14:42:16,662 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
+2022-12-07 14:42:16,663 inventory.redis_consumer INFO     {'pk': '01GKPGK0ZXWQW1EDNA4G9HD99J', 'product_id': '01GKEG3B2VQ15GC1NJ725X86DA', 'price': '253.0', 'fee': '50.6', 'total': '303.59999999999997', 'quantity': '111.0', 'status': 'completed'}
+2022-12-07 14:43:23,463 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
