@@ -1,4 +1,6 @@
-export const Layout = (props) => {
+import { Link, Outlet } from "react-router-dom";
+
+export const Layout = () => {
     return (
         <div className="App">
             <header className="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
@@ -26,20 +28,27 @@ export const Layout = (props) => {
                         <div className="position-sticky pt-3 sidebar-sticky">
                             <ul className="nav flex-column">
                                 <li className="nav-item">
-                                    <a
+                                    <Link
                                         className="nav-link active"
                                         aria-current="page"
-                                        href="#"
+                                        to="/"
                                     >
                                         Products
-                                    </a>
+                                    </Link>
+                                    <Link
+                                        className="nav-link active"
+                                        aria-current="page"
+                                        to="order"
+                                    >
+                                        Order
+                                    </Link>
                                 </li>
                             </ul>
                         </div>
                     </nav>
 
                     <main className="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-                        {props.children}
+                        <Outlet />
                     </main>
                 </div>
             </div>
