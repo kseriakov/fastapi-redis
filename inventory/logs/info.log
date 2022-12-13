@@ -155,3 +155,4 @@
 2022-12-07 14:42:16,662 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
 2022-12-07 14:42:16,663 inventory.redis_consumer INFO     {'pk': '01GKPGK0ZXWQW1EDNA4G9HD99J', 'product_id': '01GKEG3B2VQ15GC1NJ725X86DA', 'price': '253.0', 'fee': '50.6', 'total': '303.59999999999997', 'quantity': '111.0', 'status': 'completed'}
 2022-12-07 14:43:23,463 inventory.redis_consumer INFO     In stack not availible 111.0 product/s
+2022-12-09 13:06:12,128 inventory.redis_consumer INFO     In stack not availible 299.0 product/s
